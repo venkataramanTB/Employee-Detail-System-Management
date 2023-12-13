@@ -25,7 +25,7 @@ Database: PostgreSQL
 Authentication: JWT (JSON Web Tokens)
 Getting Started:
 
-Clone the repository: git clone https://github.com/venkataraman/employee-detail-management-system.git
+Clone the repository: git clone [https://github.com/venkataraman/employee-detail-management-system.git](https://github.com/venkataramanTB/Employee-Detail-System-Management)
 Install dependencies:
 Frontend: cd client && npm install
 Backend: cd server && npm install
